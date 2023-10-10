@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Abdul Alim from Bangladesh</h1>
 <h3 align="center">A passionate fullstack web developer</h3>
-<img align="right" alt="abdulalim" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGMzZTFwcDNtdWhpdXpoMnMwbjJ6cXBrMjg0b3lscjhpYXI0Z29iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LQHvkbIzTSLe/giphy.gif"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devabdulalimrony&label=Profile%20views&color=0e75b6&style=flat" alt="devabdulalimrony" /> </p>
 
@@ -29,28 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devabdulalimrony&show_icons=true&locale=en" alt="devabdulalimrony" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devabdulalimrony&" alt="devabdulalimrony" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
